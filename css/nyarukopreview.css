@@ -1,0 +1,24 @@
+.nyarukopreview {
+    background-color: lightgray;
+}
+.nyarukopreview_progview {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: relative;
+    width: 100%;
+    height: 20px;
+    top: 100%;
+    top: calc(100% - 20px);
+}
+.nyarukopreview_progb {
+    background-color: lightgray;
+    position: relative;
+    left: 5%;
+    width: 90%;
+    top: 30%;
+    height: 40%;
+}
+.nyarukopreview_prog {
+    background-color: skyblue;
+    width: 0%;
+    height: 100%;
+}

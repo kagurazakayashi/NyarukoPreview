@@ -8,14 +8,15 @@
     height: 20px;
     top: 100%;
     top: calc(100% - 20px);
+    display: none;
 }
 .nyarukopreview_progb {
     background-color: lightgray;
     position: relative;
     left: 5%;
     width: 90%;
-    top: 30%;
-    height: 40%;
+    top: 40%;
+    height: 20%;
 }
 .nyarukopreview_prog {
     background-color: skyblue;
